@@ -22,11 +22,11 @@ En la línea de comando de la terminal de su equipo, ejecute el comando **fbcm4j
 Usted simplemente selecciona el número correspondiente a la opción que desea ejecutar. 
 
 ## Créditos
-Este proyecto está basado en el repositorio publicado por el Ingeniero  Jose Manuel Lopez Lujan del MIT
+Este proyecto está basado en el repositorio publicado por el Ingeniero  Jose Manuel Lopez Lujan
 
 También se agradece a la Ingeniera Lorenza Illanes Diaz Rivera por su orientación en la clase de *Computación en Java*
 
-Este repositorio, ha sido desarrollado y publicado por un servidor: Mario Alberto Estrada Palacios.
+Este repositorio, ha sido desarrollado y publicado por: Pascual Tzompantzi Maldonado.
 
 ## Licencia
 Este proyecto se apega al esquema de licenciamiento expuesto en el documento licencia de MIT
