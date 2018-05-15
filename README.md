@@ -2,13 +2,14 @@
 Repositorio para el proyecto FBCMD4J
 
 ## Instalacion
-Asegúrese de cumplir con los requierimientos para poder instalar este proyecto en su equipo personal. 
-1. Utilice las herramientas de GIT para clonar el repositorio mediante el siguiente comando: git clone url
-2. Una vez que haya clonado el repositorio en un directorio de trabajo local, utilice Eclipse para importar el proyecto clonado. 
-3. Puede revisar el código fuente en el repositorio. 
-4. Exporte el proyecto para crear el archivo JAR correspondiente. 
+Asegúrese de cumplir con los requierimientos de instalación.
 
-Con los pasos anteriores, obtendrá el archivo **fbcmd4j** listo en su equipo. 
+Utilice las herramientas de GIT para clonar el repositorio:
+Una vez que haya clonado el repositorio en un directorio de trabajo local, utilice Eclipse para importar el proyecto clonado.
+Puede revisar el código fuente en el repositorio.
+Exporte el proyecto para crear el archivo JAR correspondiente.
+Con los pasos anteriores, obtendrá el archivo fbcmd4j listo en su equipo.
+
 
 ## Uso 
 En la línea de comando de la terminal de su equipo, ejecute el comando **fbcm4j** , el cual mostrará las siguientes opciones: 
